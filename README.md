@@ -1,16 +1,16 @@
 ## Hi there 👋
+## 👋 About Me  
 
-<!--
-**vedantrathod-git/Vedantrathod-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vedant**, a **Computer Science student** passionate about **Artificial Intelligence, Deep Learning, and Data Analytics**.  
+I enjoy exploring how data and machine learning can solve real-world problems and drive intelligent decision-making.  
 
-Here are some ideas to get you started:
+- 🎓 Pursuing **B.Sc. in Computer Science**  
+- 🧠 Focus: **Machine Learning, Neural Networks, and Data Analytics**  
+- 📊 Skilled in **Python**, **NumPy**, **Pandas**, and **Scikit-learn**  
+- 🌱 Currently learning **Deep Learning frameworks** like TensorFlow and PyTorch  
+- 🎯 Goal: To build impactful, data-driven AI solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧠 Tech Skills  
+
+Python, SQL, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn,Jupyter Notebook, Google Colab, Git, GitHub, 
