@@ -6,11 +6,11 @@ I enjoy exploring how data and machine learning can solve real-world problems an
 
 - 🎓 Pursuing **B.Sc. in Computer Science**  
 - 🧠 Focus: **Machine Learning, Neural Networks, and Data Analytics**  
-- 📊 Skilled in **Python**, **NumPy**, **Pandas**,**Scikit-learn**,**MYSQL,**HTML5,**JAVASCRIPT  
+- 📊 Skilled in **Python**, **NumPy**, **Pandas**,**Scikit-learn**,MYSQL,HTML5,JAVASCRIPT  
 - 🌱 Currently learning **Deep Learning frameworks** like TensorFlow and PyTorch  
 - 🎯 Goal: To build impactful, data-driven AI solutions
 
 
 ## 🧠 Tech Skills  
 
-Python, SQL, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn,Jupyter Notebook, Google Colab, Git, GitHub, 
+Python, SQL, NumPy, Pandas,Scikit-Learn,Jupyter Notebook, HTML5, Javascript, Git, GitHub, 
