@@ -13,4 +13,4 @@ I enjoy exploring how data and machine learning can solve real-world problems an
 
 ## 🧠 Tech Skills  
 
-Python, SQL, NumPy, Pandas,Scikit-Learn,Jupyter Notebook, HTML5, Javascript, Git, GitHub, 
+Python, SQL, NumPy, Pandas,Scikit-Learn,Jupyter Notebook, HTML5, Git, GitHub, 
